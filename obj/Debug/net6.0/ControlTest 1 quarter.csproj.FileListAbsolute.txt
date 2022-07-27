@@ -1,0 +1,15 @@
+/Users/volodia/Desktop/РАЗРАБОТЧИК /ControlTest 1 quarter/obj/Debug/net6.0/ControlTest 1 quarter.csproj.AssemblyReference.cache
+/Users/volodia/Desktop/РАЗРАБОТЧИК /ControlTest 1 quarter/obj/Debug/net6.0/ControlTest 1 quarter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/volodia/Desktop/РАЗРАБОТЧИК /ControlTest 1 quarter/obj/Debug/net6.0/ControlTest 1 quarter.AssemblyInfoInputs.cache
+/Users/volodia/Desktop/РАЗРАБОТЧИК /ControlTest 1 quarter/obj/Debug/net6.0/ControlTest 1 quarter.AssemblyInfo.cs
+/Users/volodia/Desktop/РАЗРАБОТЧИК /ControlTest 1 quarter/obj/Debug/net6.0/ControlTest 1 quarter.csproj.CoreCompileInputs.cache
+/Users/volodia/Desktop/РАЗРАБОТЧИК /ControlTest 1 quarter/bin/Debug/net6.0/ControlTest 1 quarter
+/Users/volodia/Desktop/РАЗРАБОТЧИК /ControlTest 1 quarter/bin/Debug/net6.0/ControlTest 1 quarter.deps.json
+/Users/volodia/Desktop/РАЗРАБОТЧИК /ControlTest 1 quarter/bin/Debug/net6.0/ControlTest 1 quarter.runtimeconfig.json
+/Users/volodia/Desktop/РАЗРАБОТЧИК /ControlTest 1 quarter/bin/Debug/net6.0/ControlTest 1 quarter.dll
+/Users/volodia/Desktop/РАЗРАБОТЧИК /ControlTest 1 quarter/bin/Debug/net6.0/ControlTest 1 quarter.pdb
+/Users/volodia/Desktop/РАЗРАБОТЧИК /ControlTest 1 quarter/obj/Debug/net6.0/ControlTest 1 quarter.dll
+/Users/volodia/Desktop/РАЗРАБОТЧИК /ControlTest 1 quarter/obj/Debug/net6.0/refint/ControlTest 1 quarter.dll
+/Users/volodia/Desktop/РАЗРАБОТЧИК /ControlTest 1 quarter/obj/Debug/net6.0/ControlTest 1 quarter.pdb
+/Users/volodia/Desktop/РАЗРАБОТЧИК /ControlTest 1 quarter/obj/Debug/net6.0/ControlTest 1 quarter.genruntimeconfig.cache
+/Users/volodia/Desktop/РАЗРАБОТЧИК /ControlTest 1 quarter/obj/Debug/net6.0/ref/ControlTest 1 quarter.dll
